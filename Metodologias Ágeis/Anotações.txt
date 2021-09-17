@@ -1,0 +1,287 @@
+Introdução ao SCRUM
+Objetivos da aula
+
+1- Conceitos básicos
+2- Papéis e responsabilidades de cada um do time
+3- Cerimônios do SCRUM
+
+
+Conceitos básicos
+Desafios do desenvolvimento de software
+Objetivos de negócio nascem os requisitos
+Processo de desenvolvimento: 
+- concepção
+- análise e design
+- desenvolvimento
+- testes
+- implantação
+
+depois nasce um software para ajudar a empresa
+
+Gestão de projetos: tradicional x ágil
+Tradicional (cascata): só permite que o projeto avance quando uma fase inteira está inteiramente completa
+Normalmente demora muito tempo
+-Escopo definido na fase inicial do projeto (preditivo)
+-projeto é controlado por fases e marcos
+-cliente só vê o software funcionando na fase final do projeto
+-resistência a mudanças
+
+Ágil: software construído por partes (incremental) e cada parte executa-se em um ciclo (iterativo)
+-escopo definido ao longo do projeto (adaptativo)
+-projeto é controlado por funcionalidades entregues
+-cliente pode ver parte do fotware funcionando na parte inicial do projeto
+-mudanças constantes de acordo com feedbacks contínuos
+
+Em projetos tradicionais, você corre o risco de descobrir que estava errado depois de meses. Com o scrum vc descobre que estava errado em no máximo 30 dias
+
+O que é ser ágil?
+Ágil é diferente de rápido.
+-Rapidez e desembaraço
+-fazer coisas complexas de forma simples
+-equipe comprometida com os objetivos
+-maior valor para o cliente
+
+Ter capacidade de responder rapidamente a mudanças
+
+SCRUM
+-é um dos frameworks de gerenciamento de projetos ágeis
+-projetos usando equipes pequenas e multidisciplinares produzem os melhores resultados
+
+Pilares do scrum:
+-transparência
+-adaptação
+-inspeção
+
+Isso significa que
+-conversar mais e escrever menos -transparência
+-demonstrar o software constantemente aos usuários e obter feedbacks constantes -transparência
+-requisitos mudam ao longo do tempo -adaptação
+-aprender progressivamente com o uso do software -inspeção
+
+Razões para adotar o scrum
+-desenvolvido e entregue em partes menores (2 a 4 semanas), com constante feedback dos usuários
+-melhor gerenciamento de riscos (redução de incertezas)
+-comprometimento, motivação e transparência da equipe (daily meeting)
+-maior valor para o negócio (priorização de backlog)
+-usuários envolvidos durante todo o ciclo
+-aplicação das lições aprendidas (melhoria contínua)
+
+Características do time scrum:
+- equipes capazes de se auto-organizarem
+- as tarefas são do time e todos são responsáveis
+- forte comprometimento com os resultados
+
+MVP produto mínimo viável
+startups usam muito metodologia ágil
+
+Qual característica de um projeto ágil?
+escopo definido ao longo do projeto
+
+Quais são os pilares do scrum
+adaptação, transparência e inspeção
+
+--
+Papéis e responsabilidades de cada um do time
+
+PO product owner
+Scrum master SM
+Time de desenvolvimento DEV, de 3 a 9 pessoas
+
+PO product owner - Papéis e responsabilidades
+-representante da área de negócios
+-PO não é um comitê
+-define as funcionalidades do software (product backlog)
+-prioriza as funcionalidades de acordo com o valor do negócio
+-garante que o time de desenvolvimento entenda os itens do backlog no nível necessário
+
+Scrum master SM - Papéis e responsabilidades
+-garantir o uso correto do scrum
+-scrum master não é o gerente de projeto
+-age como facilitador
+-auxilia o PO no planejamento e estimativas de backlog
+-auxilia a equipe a remover impedimentos
+-treina o time em autogerenciamento e interdisciplinaridade
+
+Time de desenvolvimento DEV - Papéis e responsabilidades
+-possui habilidades suficientes para desenvolver, testar, criar e desenhar, ou seja, tudo que for necessário para entregar o software funcionando
+
+Quem é o responsável por priorizar o backlog?
+PO
+
+Quem é o responsável por garantir que o time utilize a melhor forma o SCRUM
+SM
+
+Quem é o responsável por desenhar, construir e entregar o software funcionando
+Time DEV
+
+---
+
+Cerimônias do SCRUM
+Tempo máximo para fazer uma cerimônio ou sprint - TIME BOX
+
+Sprint = corrida, arrqancada.
+É o principal do SCRUM
+Duração 30 dias ou menos
+Composição de uma sprint
+-planejamento da sprint
+-reuniões diárias (daily meeting)
+-revisão da sprint (review)
+-retrospectiva da sprint
+time box daily meeting: 15 minutos
+
+Planejamento da sprint
+Quem participa PO, DEVs, SM
+O que fazer? 
+Como fazer?
+
+Planning poker
+
+Daily meeting
+também conhecida como stand up meeting
+
+Review
+Time DEV apresenta para o PO o trabalho
+
+Retrospectiva
+Reunião da equipe para lições aprendidas
+
+-transparência
+
+----------
+
+Fundamentos de um projeto ágil
+
+Projetos ágeis com SCRUM
+
+Objetivos da aula
+
+1- Papéis e responsabilidades do product owner PO
+2- Analisando escopo e definindo prioridades
+3- Papel do PO na transformação digital
+
+Papéis e responsabilidades do product owner PO
+
+O que é o PO?
+Representa o profissional que tem a visão do que será desenvolvido, as necessidades a serem atendidas, o público que vai utilizar os serviços e os objetivos a serem alcançados.
+
+Refining e Planning
+
+Release Planning
+Liberação ou lançamento de software é o lançamento de nova versão oficial do produto de software. Cada vez que um produto de software é criado ou modificado, o fabricante e seus desenvolvedores decidem sobre como distribuir ou o novo produto ou a modificação às pessoas que o utilizam.
+
+Existem dois tipo de release planning
+-de Múltiplas Squads: técnica. são vários times de desenvolvimento agrupados em que no fim vão ser juntadas.
+-de Projeto: PO possui demanda muito grande e precisa quebrar em várias sprints
+
+Qual característica melhor descreve uma atividade do PO
+Entende a demanda e extrai o maior valor possível
+
+Qual o papel do PO dentro do TIME?
+Ajua o time a entender a demanda e tira as dúvidas ao longo da sprint
+
+---
+Analisando escopo e definindo prioridades
+
+Product Backlog
+é composto por épicos e estórias
+épicos = incremento sem muito detalhamento, ajuda a te direcionar dos caminhos que deve seguir
+estória = detalhamento dos épicos, um épico normalmente se divide em várias estórias, onde ficam descritos o que deve acontecer e suas regras de negócio.
+
+Escrevendo uma estória
+- nome da estória
+- descrição da estória (eu, como, quero, quando)
+- regras de negócio (separar regras de front-end de regras de back-end)
+- tela (link ou imagem das telas a serem desenvolvidas)
+- KPI (quais os objetivos/valor a estória precisa atingir)
+- tagueamento (como a estória será tagueada para poder mensurar os KPI)
+- critérios de aceite (qual o passo a passo de todos os caminhos felizes possíveis a estória deve cumprir para que ela seja considerada aceita)
+
+Riscos positivos
+
+Positivos = muito ignorado nos projetos, porém um dos fatores de maiores ganhos no desenvolvimento de sistemas
+
+Negativos = itens que podem afetar o prazo, custo ou escopo de um projeto de maneira que pode acabar inviabilizando-o
+
+Qual método é mais indicado para definir o escopo do projeto?
+Entender qual o ganho antes de definir o escopo.
+
+O que compõe um product backlog?
+Épico e estória
+
+Qual a importância de mapear riscos positivos?
+Poder priorizar outros itens no backlog
+
+---
+Papel do PO na transformação digital
+
+Transformação digital
+É um processo no qual as empresas fazem uso da tecnologia para melhorar o desempenho, aumentar o alcance e garantir resultados melhores.
+É uma mudança estrutural nas organizações dando um papel essencial para a tecnologia.
+
+
+-----------
+
+Conceitos e atividades essenciais para o sucesso de um projeto ágil
+
+Objetivos da aula
+1- Estórias vs Tarefas
+2- Critérios de Aceite, estimativa e planejamento de tarefas
+3- Relacionamento com clientes/stakeholders
+
+Estórias vs Tarefas
+
+Qual característica melhor descreve uma estória?
+Uma tarefa descrita em nível de negócio.
+
+O que é uma tarefa?
+Um conjunto de atividades que o time desenvolvimento deve desempenhar para entregar a estória.
+
+---
+Critérios de Aceite, estimativa e planejamento de tarefas
+É uma lista de critérios que precisam ser alcançados para que a user story atenda os requisitos do usuário e seja aceita pelo PO.
+Os critérios de aceitação têm o objetivo de definir limites para as user stories. Ajudar o PO a detalhar em alto nível o que é necessário para entregar valor ao cliente.
+
+Planning Poker
+Planning Tshirt size
+
+O que é um critério de aceite?
+É uma lista de critérios que precisam ser alcançados para que a estória atenda aos requisitos do cliente.
+
+O que é planning poker?
+Uma atividade de mensuração de esforço e complexidade das tarefas ou estórias.
+
+---
+Relacionamento com clientes/stakeholders
+O stakeholder é uma pessoa ou um grupo que legitima as ações de uma organização e que tem um papel direto ou indireto na gestão e resultados dessa mesma organização. Desta forma, um stakeholder pode ser afetado positiva ou negativamente, dependendo das suas políticas e forma de atuação.
+Alguns exemplos de stakeholder de uma empresa podem ser os seus funcionários, gestores, gerentes, proprietários, fornecedores, concorrentes, ONGs, clientes, o Estado, credores, sindicatos e diversas outras pessoas ou empresas que estejam relacionadas com uma determinada ação ou projeto.
+
+
+------
+Ritos
+
+Objetivos da aula
+1- Daily e retrospectiva
+2- Refinamento e review
+3- Maturidade da equipe
+
+Daily e retrospectiva
+Quem tem participação obrigatória na daily?
+O time de desenvolvimento apenas.
+
+Quem tem participação obrigatória na retro?
+O time de DEVs e o SM.
+
+---
+Refinamento e review
+Em que momento acontece o refinamento?
+O refinamento acontece um passo antes da planning
+
+Qual o principal objetivo da review?
+Verificar se a demanda agraga valor ao negócio.
+
+---
+Maturidade da equipe
+Pilares do scrum
+
+
+
