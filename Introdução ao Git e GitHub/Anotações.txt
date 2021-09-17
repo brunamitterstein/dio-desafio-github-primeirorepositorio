@@ -1,1 +1,24 @@
 Link para baixar o Git: https://git-scm.com/downloads
+
+Iniciando o Git e criando um commit
+
+Primeiros comandos com git
+-Iniciar um repositório
+-Iniciar o versionamento
+-Criar um commit
+
+- git init
+- git add
+- git commit
+
+Criando um repositório:
+
+git init
+
+ls -a (mostra arquivos ocultos)
+
+adicionando arquivo
+
+git add *
+
+git commit -m "commit inicial" 
